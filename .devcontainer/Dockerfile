@@ -1,4 +1,4 @@
-FROM elixir:1.17.2
+FROM elixir:1.18.0
 
 ARG USERNAME=vscode
 ARG USER_UID=1000
